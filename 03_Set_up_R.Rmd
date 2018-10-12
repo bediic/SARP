@@ -8,7 +8,7 @@ R kurulumu oldukça kolaydır. <a href="https://www.r-project.org/" target="_bla
 knitr::include_url("https://www.youtube.com/embed/ym8szN2Zim4")
 ```
 
-R programını betik dosyası oluşturmadan doğrudan kullanmak mümkündğr fakat bir betik düzenleyici kullanmak kolaylık sağlar. En basit betik düzenleyicisi R programının içeresinde yer alır. R açık iken _File_ ve sonrasında _new script_ seçilerek betik düzenleyici açılır. Bu basamaklar Video2 \@ref(fig:Video2)) ile gösterilmiştir. 
+R programını betik dosyası oluşturmadan doğrudan kullanmak mümkündür fakat bir betik düzenleyici kullanmak kolaylık sağlar. En basit betik düzenleyicisi R programının içeresinde yer alır. R açık iken _File_ ve sonrasında _new script_ seçilerek betik düzenleyici açılır. Bu basamaklar Video2 \@ref(fig:Video2)) ile gösterilmiştir. 
 
 ```{r Video2, fig.cap='R betik ', fig.width=8, fig.height=6 , echo=FALSE}
 knitr::include_url("https://www.youtube.com/embed/6AEdcRmG4Rk")
